@@ -1,4 +1,4 @@
-关于Meteor不足的解决反感
+关于Meteor不足的解决方案
 =====
 
 ##  directions
